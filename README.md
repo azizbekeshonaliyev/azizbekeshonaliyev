@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @azizbekeshonaliyev
-- 👀 I’m interested in new algorithms
 - 🌱 I’m currently learning Trees
 
 <!---
